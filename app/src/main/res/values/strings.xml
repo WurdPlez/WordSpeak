@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Word Speak</string>
+
+
+    <string name="label_welcome">Hello, Welcome!</string>
+    <string name="sentence_app_description">This is a voice recognition application \n for learning sign language.
+    </string>
+    <string name="sentence_instruction">Press the red button to get started.</string>
+    <string name="sentence_instruction_again">Press the red button start again.</string>
+    <string name="sentence_video_cannot_be_found">The video you are looking for is not yet available, Please try
+        again.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

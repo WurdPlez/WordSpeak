@@ -1,0 +1,58 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="match_parent"
+   android:layout_height="match_parent">
+
+   <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:background="@color/colorPrimaryLight"
+      android:gravity="center"
+      android:orientation="vertical">
+
+      <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginBottom="@dimen/vertical_margin2"
+              android:text="@string/app_name"
+              android:textAllCaps="true"
+              android:textColor="@color/textLight"
+              android:textSize="@dimen/title1"
+              android:textStyle="bold" />
+
+      <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginBottom="@dimen/padding"
+         android:text="@string/label_welcome"
+         android:textColor="@color/textLight"
+         android:textSize="@dimen/header1"
+         android:textStyle="bold" />
+
+      <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginBottom="@dimen/vertical_margin"
+         android:padding="@dimen/padding"
+         android:text="@string/sentence_app_description"
+         android:textAlignment="center"
+         android:textColor="@color/textLight"
+         android:textSize="@dimen/text" />
+
+      <ImageButton
+         android:id="@+id/buttonMic"
+         android:layout_width="250dp"
+         android:layout_height="250dp"
+         android:layout_marginBottom="@dimen/padding"
+         android:background="@drawable/ic_circle_logo" />
+
+      <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginBottom="@dimen/vertical_margin"
+         android:text="@string/sentence_instruction"
+         android:textColor="@color/textLight"
+         android:textSize="@dimen/header2"
+         android:textStyle="bold" />
+
+   </LinearLayout>
+</FrameLayout>

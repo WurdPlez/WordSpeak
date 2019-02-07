@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="title1">35sp</dimen>
+    <dimen name="header1">25sp</dimen>
+    <dimen name="header2">20sp</dimen>
+    <dimen name="text">16sp</dimen>
+    <dimen name="logo_width">150dp</dimen>
+    <dimen name="logo_height">125dp</dimen>
+
+    <dimen name="horizontal_margin">16dp</dimen>
+    <dimen name="horizontal_margin2">24dp</dimen>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="vertical_margin2">24dp</dimen>
+
+    <dimen name="padding">8dp</dimen>
+
+</resources>
