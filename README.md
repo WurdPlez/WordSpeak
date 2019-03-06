@@ -1,2 +1,2 @@
 # WordSpeak
-Voice recognizing application for deaf-mute people
+Voice recognizing application for understanding deaf-mute people
